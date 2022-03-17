@@ -3,8 +3,11 @@ esta es mi historia
 qui mi historia cambio
 
 historia del footer
+<<<<<<< HEAD
 
 mas historia
 
+=======
+>>>>>>> 245acc78bc8a74db6f91a00e6c8c7fa7d0e9ac40
 
 
